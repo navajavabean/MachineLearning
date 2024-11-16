@@ -13,9 +13,9 @@ This project predicts whether a cheese is **firm** or **not firm** based on its 
 
 Significant Packages Used:
 
-`pandas and numpy`: Data loading and manipulation.
-scikit-learn: Used for preprocessing, building pipelines, Decision Tree modeling, and hyperparameter tuning.
-altair: Data visualization to analyze features like milk type, fat level, and cheese firmness.
+`pandas` and `numpy`: Data loading and manipulation.
+`scikit-learn`: Used for preprocessing, building pipelines, Decision Tree modeling, and hyperparameter tuning.
+`altair`: Data visualization to analyze features like milk type, fat level, and cheese firmness.
 
 ---
 
@@ -27,9 +27,9 @@ It utilizes Natural Language Processing (NLP) to preprocess review text and a Na
 
 Significant Packages Used:
 
-pandas and numpy: Data loading and cleaning.
-nltk: Text preprocessing, including tokenization, stopword removal, and lemmatization.
-scikit-learn: TF-IDF vectorization, Naive Bayes classification, and model evaluation.
-matplotlib and seaborn: Visualization of text features and model performance metrics.
+`pandas` and `numpy`: Data loading and cleaning.
+`nltk`: Text preprocessing, including tokenization, stopword removal, and lemmatization.
+`scikit-learn`: TF-IDF vectorization, Naive Bayes classification, and model evaluation.
+`matplotlib` and `seaborn`: Visualization of text features and model performance metrics.
 
 ---
