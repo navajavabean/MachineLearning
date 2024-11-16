@@ -6,8 +6,7 @@ Here’s what I’ve got for you so far:
 
 ---
 
-## **1. CheeseOrNotCheese**  
-### *Firm or Not Firm*  
+## **1. CheeseOrNotCheese: Firm or Not Firm**  
 
 This project predicts whether a cheese is **firm** or **not firm** based on its characteristics like moisture content, milk type, and fat level. 
 
@@ -19,8 +18,7 @@ Significant Packages Used:
 
 ---
 
-## **2. YelpClassifier**  
-### Predict Yelp Ratings*  
+## **2. YelpClassifier Predict Yelp Ratings**
 
 Description: This project focuses on classifying Yelp reviews as either 1-star (negative) or 5-star (positive). 
 It utilizes Natural Language Processing (NLP) to preprocess review text and a Naive Bayes classifier to predict the star rating based on customer sentiments.
